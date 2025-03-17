@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of Yan ZENG for recording the projects and interesting skills.<br/>
-This is a start for encouraging myself to make more outputs. I will try my best to keep updating.  <br/>
+This is the front page of Yan ZENG for recording the projects and interesting skills.\<br/\>
+This is a start for encouraging myself to make more outputs. I will try my best to keep updating.  \<br/\>
 
 Education and Working Experiences
 ======
-PostDoc, HKU (2024-present)  <br/>
-PostDoc, BGI (2021-2024)  <br/>
+PostDoc, HKU (2024-present)  \<br/\>
+PostDoc, BGI (2021-2024)  \<br/\>
 PhD of Genetics, from Chinese Academy of Sciences (2014-2020)  <br/>
 BS of Biology, Wuhan University (2010-2014)  <br/>
 
