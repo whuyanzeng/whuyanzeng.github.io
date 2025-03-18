@@ -20,7 +20,7 @@ div.highlighter-rouge, figure.highlight {
     background-color: mix(#fff, #7a8288, 90%);
     content: "\f121";
     font-family: "Font Awesome 6 Free" !important;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1;
     text-transform: none;
     speak: none;
@@ -29,12 +29,12 @@ div.highlighter-rouge, figure.highlight {
   .highlight {
     margin: 0;
     font-family: $monospace;
-    font-size: $type-size-6;
+    font-size: $type-size-5;
     line-height: 1.8;
   }
 }
 
-.highlight table td { padding: 5px; }
+.highlight table td { padding: 0px; }
 .highlight table pre { margin: 0; }
 
 
