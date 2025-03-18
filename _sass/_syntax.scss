@@ -16,7 +16,7 @@ div.highlighter-rouge, figure.highlight {
     position: absolute;
     top: 0;
     right: 0;
-    padding: 0.5em;
+    padding: 0;
     background-color: mix(#fff, #7a8288, 90%);
     content: "\f121";
     font-family: "Font Awesome 6 Free" !important;
@@ -34,7 +34,7 @@ div.highlighter-rouge, figure.highlight {
   }
 }
 
-.highlight table td { padding: 0px; }
+.highlight table td { padding: 0; }
 .highlight table pre { margin: 0; }
 
 
