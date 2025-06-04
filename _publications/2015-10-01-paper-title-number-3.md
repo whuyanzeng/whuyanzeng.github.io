@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "The complete and fully-phased diploid genome of a male Han Chinese"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-05-01-2
+date: 2023-05-01
+authors: Yang, Chentao and Zhou, Yang and Song, Yanni and Wu, Dongya and Zeng, Yan and Nie, Lei and Liu, Panhong and Zhang, Shilong and Chen, Guangji and Xu, Jinjin and Zhou, Hongling and Zhou, Long and Qian, Xiaobo and Liu, Chenlu and Tan, Shangjin and Zhou, Chengran and Dai, Wei and Xu, Mengyang and Qi, Yanwei and Wang, Xiaobo and Guo, Lidong and Fan, Guangyi and Wang, Aijun and Deng, Yuan and Zhang, Yong and Jin, Jiazheng and He, Yunqiu and Guo, Chunxue and Guo, Guoji and Zhou, Qing and Xu, Xun and Yang, Huanming and Wang, Jian and Xu, Shuhua and Mao, Yafei and Jin, Xin and Ruan, Jue and Zhang, Guojie
+venue: 'Cell Research'
+paperurl: 'https://www.nature.com/articles/s41422-023-00849-5'
+citation: 'Yang, C., Zhou, Y., Song, Y. et al. The complete and fully-phased diploid genome of a male Han Chinese. Cell Res 33, 745–761 (2023). https://doi.org/10.1038/s41422-023-00849-5'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+ @article{Yang_2023, title={The complete and fully-phased diploid genome of a male Han Chinese}, volume={33}, ISSN={1748-7838}, url={http://dx.doi.org/10.1038/s41422-023-00849-5}, DOI={10.1038/s41422-023-00849-5}, number={10}, journal={Cell Research}, publisher={Springer Science and Business Media LLC}, author={Yang, Chentao and Zhou, Yang and Song, Yanni and Wu, Dongya and Zeng, Yan and Nie, Lei and Liu, Panhong and Zhang, Shilong and Chen, Guangji and Xu, Jinjin and Zhou, Hongling and Zhou, Long and Qian, Xiaobo and Liu, Chenlu and Tan, Shangjin and Zhou, Chengran and Dai, Wei and Xu, Mengyang and Qi, Yanwei and Wang, Xiaobo and Guo, Lidong and Fan, Guangyi and Wang, Aijun and Deng, Yuan and Zhang, Yong and Jin, Jiazheng and He, Yunqiu and Guo, Chunxue and Guo, Guoji and Zhou, Qing and Xu, Xun and Yang, Huanming and Wang, Jian and Xu, Shuhua and Mao, Yafei and Jin, Xin and Ruan, Jue and Zhang, Guojie}, year={2023}, month=jul, pages={745–761} }
+,
