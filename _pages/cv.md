@@ -20,7 +20,7 @@ Work experience
 * June 2024 - present: Postdoctoral Fellowship
   * the University of Hong Kong
   * Duties included: Analysis of sequencing (single-cell/Perturb-seq/bulk RNA-seq/ATAC-seq) and imaging data.
-  * Supervisor: Assoc. Prof. Carmen C.L. WONG
+  * Supervisor: Assoc. Prof. [Carmen C.L. WONG](https://www.carmenwong-lab.com/)
   * Achievements:
     * Analyzed single-cell RNA-sequencing data of the tumor mouse model to facilitate the development of combined immune-checkpoint blockade therapy for hepatocyte carcinoma.
     * Analyzed perturb-seq dataset to investigate the epigenetic regulation in cancer cell lines, identified the underlying gene modules, and explored the biological function.
@@ -28,7 +28,7 @@ Work experience
 * September 2021 - May 2024: Postdoctoral Fellowship
   * Beijing Genomics Institute (BGI)
   * Duties included: Research (human genetics, population genomics) and scientific support
-  * Supervisor: Prof. Xin JIN
+  * Supervisor: Prof. [Xin JIN](https://scholar.google.com/citations?user=eyfJjQwAAAAJ)
   * Achievements:
     * Participated in the drafts of research proposal materials to promote National Genome Projects (for the United Arab Emirates, Israel, Serbia, Saudi Arabia, and Malaysia). Participated in a successful application for an international scientific cooperation grant.
     * Participated in developing a method for screening markers for complex disease using multi-omics data, patent submitted.
