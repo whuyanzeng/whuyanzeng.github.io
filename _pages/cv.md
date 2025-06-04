@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Genetics, Kunming Institute of Zoology, University of Chinese Academy of Sciences, 2020
+* Ph.D in Genetics, Kunming Institute of Zoology, University of Chinese Academy of Sciences, 2020 (supervisor Prof. [Wen WANG](https://scholar.google.com/citations?user=OZ-l-uYAAAAJ))
 * B.S. in Biology, Wuhan University, 2014
   * Minor in Computer Science, Wuhan University, 2014
 
