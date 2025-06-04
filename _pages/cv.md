@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Genetics, Kunming Institute of Zoology, University of Chinese Academy of Sciences, 2020
 * B.S. in Biology, Wuhan University, 2014
-* * Minor in Computer Science, Wuhan University, 2014
+  * Minor in Computer Science, Wuhan University, 2014
 
 Work experience
 ======
