@@ -11,24 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Genetics, Kunming Institute of Zoology, University of Chinese Academy of Sciences, 2020
+* B.S. in Biology, Wuhan University, 2014
+** Minor in Computer Science, Wuhan University, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* June 2024 - present: Postdoctoral Fellowship
+  * the University of Hong Kong
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Assoc. Prof. Carmon C.L. WONG
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* September 2021 - May 2024: Postdoctoral Fellowship
+  * Beijing Genomics Institute (BGI)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Prof. Xin JIN
 
-* Summer 2015: Research Assistant
-  * GitHub University
+* September 2020 - August 2021: Researcher
+  * Zhengbang Group
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
