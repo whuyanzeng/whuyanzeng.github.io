@@ -19,7 +19,7 @@ Work experience
 ======
 * June 2024 - present: Postdoctoral Fellowship
   * the University of Hong Kong
-  * Duties included: Analysis of sequencing (single-cell/Perturb-seq/bulk RNA-seq/ATAC-seq) and imaging data.
+  * Duties included: Analysis of sequencing (single-cell/CRISPR screen/Perturb-seq/bulk RNA-seq/ATAC-seq) and imaging data.
   * Supervisor: Assoc. Prof. [Carmen C.L. WONG](https://www.carmenwong-lab.com/)
   * Achievements:
     * Analyzed single-cell RNA-sequencing data of the tumor mouse model to facilitate the development of combined immune-checkpoint blockade therapy for hepatocyte carcinoma.
